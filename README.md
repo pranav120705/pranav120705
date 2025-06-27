@@ -1,68 +1,65 @@
-# 👋 Hey, I'm Pranav GS
+<h1 align="center">Hey 👋 I'm Pranav GS</h1>
 
-🎓 Artificial Intelligence & Data Science Undergraduate @ MIT – Anna University  
-🤖 Machine Learning Intern @ Zetamp | GenAI Enthusiast | Tech for Impact  
-📫 Email: pranavgs12professional@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/pranav-gs-609a2825a/) • [GitHub](https://github.com/pranav120705)
+<p align="center">
+  🎓 Artificial Intelligence & Data Science Undergraduate @ MIT – Anna University <br/>
+  🤖 Machine Learning Intern @ Zetamp | AI Researcher | GenAI Enthusiast
+</p>
 
----
-
-## 🔧 Tech Stack
-
-**Languages:** Python, C++, Java  
-**AI/ML:** Scikit-learn, TensorFlow, Keras, LSTM, GenAI (Gemini/Gemma), HuggingFace  
-**Frameworks:** FastAPI, React.js, Firebase, AWS  
-**Tools:** Git, Docker, MongoDB, Firestore, MySQL, VS Code  
-**Web:** HTML, CSS, JavaScript  
-**Cloud & DevOps:** AWS, GCP, Vertex AI, CI/CD (basic)
+<p align="center">
+  <a href="mailto:pranavgs12professional@gmail.com"><img src="https://img.shields.io/badge/Gmail-pranavgs7professional@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/pranav-gs-609a2825a/"><img src="https://img.shields.io/badge/LinkedIn-Pranav%20GS-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/pranav120705"><img src="https://img.shields.io/badge/GitHub-pranav120705-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
-## 📌 Projects
+### 🔧 Tech Stack
 
-💸 **Money Mentor – Stock Market Learning & Prediction**  
-LSTM-based prediction system with yFinance + live visual trends  
-Accessible design for finance education among students  
-
-📚 **Growth – AI Learning Resource Platform**  
-AI-powered Flutter app to share/search study notes and video links  
-Uses Gemini + Firebase for smart recommendations  
-
-🏥 **MediMuse – AI Health Companion**  
-Jupyter-based medical GenAI assistant  
-Features translation, storytelling, news summaries, and health Q&A  
-
-🏢 **MIT Hostel Store – Inventory System**  
-Full-stack inventory manager using FastAPI, Docker, and MySQL  
-Used in-store to improve restocking efficiency  
-
-🧠 **Parameter Optimization via ML @ Zetamp**  
-Built prediction models for print outcomes using Scikit-learn & TensorFlow  
-Applied optimization strategies to improve performance
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+</p>
 
 ---
 
-## 🎯 Roles & Focus
+### 📌 Projects
 
-🎓 B.Tech AI & DS @ MIT (2023–2027)  
-💼 ML Intern @ Zetamp Algorithmic Design  
-🧠 Exploring: GenAI, Autonomous Agents, AI4SocialGood, Edge AI  
-🛠️ Focused on scalable, impactful solutions for underserved domains  
-
----
-
-## 🏆 Achievements
-
-🥇 Winner – Prayatna’25 Hackathon (National Level)  
-👨‍🏫 Top Contributor – GDSC AI Team  
-📜 Certifications: IBM AI Foundations, AWS Cloud Practitioner, NPTEL (DSA)
+- 💸 **Money Mentor** – Stock prediction using LSTM + yFinance, built with React.js  
+- 🧠 **Growth** – AI note-sharing app with Gemini API, built using Flutter + Firebase  
+- 🏥 **MediMuse** – GenAI health assistant for multilingual wellness and Q&A  
+- 🖨️ **Print Outcome Predictor** – ML internship project using Scikit-learn + TensorFlow  
+- 🏬 **MIT Hostel Store** – Inventory system built with FastAPI, Docker, and MySQL  
 
 ---
 
-## 📫 Let's Connect
+### 🧠 Focus Areas
 
-📧 Email: pranavgs7professional@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/pranavgs/)  
+- GenAI (Gemini, LLMs, Amazon Q)  
+- AI for social impact: education, health, and finance  
+- ML optimization, autonomous systems, and full-stack AI products
+
+---
+
+### 🏆 Achievements
+
+- 🥇 Winner – Prayatna’25 Hackathon  
+- 🧠 Research & Innovation – MIT GDSC Core Team  
+- 📜 Certifications: IBM AI Foundations, AWS Cloud Practitioner, NPTEL – DSA  
+
+---
+
+### 📫 Let's Connect
+
+📧 Email: pranavgs12professional@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/pranav-gs-609a2825a/)  
 💻 [GitHub](https://github.com/pranav120705)
 
 ---
