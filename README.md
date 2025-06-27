@@ -2,8 +2,8 @@
 
 🎓 Artificial Intelligence & Data Science Undergraduate @ MIT – Anna University  
 🤖 Machine Learning Intern @ Zetamp | GenAI Enthusiast | Tech for Impact  
-📫 Email: pranavgs7professional@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/pranavgs/) • [GitHub](https://github.com/pranav120705)
+📫 Email: pranavgs12professional@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/pranav-gs-609a2825a/) • [GitHub](https://github.com/pranav120705)
 
 ---
 
