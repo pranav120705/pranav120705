@@ -89,7 +89,7 @@ Whether it's solving algorithmic challenges, deploying ML pipelines, or creating
 
 ### 📫 Let’s Connect
 
-- 📧 Email: **pranavgs12professional@gmail.com**  
+- 📧 Email: **pranavgs120705@gmail.com**  
 - 🔗 LinkedIn: [Pranav GS](https://www.linkedin.com/in/pranav-gs-609a2825a)  
 - 💻 GitHub: [@pranav120705](https://github.com/pranav120705)  
 - ⚡ CodeChef: [pranav1207](https://www.codechef.com/users/pranav1207)  
