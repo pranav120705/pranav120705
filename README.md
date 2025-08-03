@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:pranavgs12professional@gmail.com"><img src="https://img.shields.io/badge/Gmail-pranavgs12professional@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:pranavgs120705@gmail.com"><img src="https://img.shields.io/badge/Gmail-pranavgs12professional@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/pranav-gs-609a2825a"><img src="https://img.shields.io/badge/LinkedIn-Pranav%20GS-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/pranav120705"><img src="https://img.shields.io/badge/GitHub-pranav120705-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.codechef.com/users/pranav1207"><img src="https://img.shields.io/badge/CodeChef-pranav1207-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
